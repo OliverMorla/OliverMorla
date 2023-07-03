@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">Results-driven, and resourceful, with extensive knowledge in IT & front-end web developing.</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **typescript.js**
 
 - 👨‍💻 All of my projects are available at [https://olivermorla.com/](https://olivermorla.com/)
 
